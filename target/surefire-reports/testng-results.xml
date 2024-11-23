@@ -1,0 +1,322 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="18" passed="18" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-10-23T21:43:34 EEST" name="automationExercise Regression Suite" finished-at="2024-10-23T21:44:46 EEST" duration-ms="71907">
+    <groups>
+    </groups>
+    <test started-at="2024-10-23T21:43:34 EEST" name="com.automationExercise.TestCases" finished-at="2024-10-23T21:44:46 EEST" duration-ms="71907">
+      <class name="com.automationExercise.TestCases.SearchTest">
+        <test-method signature="UserCanSearchWithPartialProduct()[pri:0, instance:com.automationExercise.TestCases.SearchTest@2ab4bc72]" started-at="2024-10-23T21:43:59 EEST" name="UserCanSearchWithPartialProduct" finished-at="2024-10-23T21:44:08 EEST" duration-ms="9546" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- UserCanSearchWithPartialProduct -->
+        <test-method is-config="true" signature="captureScreenshotAfterFail(org.testng.ITestResult)[pri:0, instance:com.automationExercise.TestCases.SearchTest@2ab4bc72]" started-at="2024-10-23T21:44:08 EEST" name="captureScreenshotAfterFail" finished-at="2024-10-23T21:44:08 EEST" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=UserCanSearchWithPartialProduct status=SUCCESS method=SearchTest.UserCanSearchWithPartialProduct()[pri:0, instance:com.automationExercise.TestCases.SearchTest@2ab4bc72] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- captureScreenshotAfterFail -->
+        <test-method signature="UserCanSearchWithProduct()[pri:0, instance:com.automationExercise.TestCases.SearchTest@2ab4bc72]" started-at="2024-10-23T21:44:08 EEST" name="UserCanSearchWithProduct" finished-at="2024-10-23T21:44:14 EEST" duration-ms="5152" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- UserCanSearchWithProduct -->
+        <test-method is-config="true" signature="captureScreenshotAfterFail(org.testng.ITestResult)[pri:0, instance:com.automationExercise.TestCases.SearchTest@2ab4bc72]" started-at="2024-10-23T21:44:14 EEST" name="captureScreenshotAfterFail" finished-at="2024-10-23T21:44:14 EEST" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=UserCanSearchWithProduct status=SUCCESS method=SearchTest.UserCanSearchWithProduct()[pri:0, instance:com.automationExercise.TestCases.SearchTest@2ab4bc72] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- captureScreenshotAfterFail -->
+      </class> <!-- com.automationExercise.TestCases.SearchTest -->
+      <class name="com.automationExercise.TestCases.LoginTest">
+        <test-method signature="UserLoginWithInvalidData()[pri:0, instance:com.automationExercise.TestCases.LoginTest@3de8f619]" started-at="2024-10-23T21:43:47 EEST" name="UserLoginWithInvalidData" finished-at="2024-10-23T21:43:52 EEST" duration-ms="4508" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- UserLoginWithInvalidData -->
+        <test-method is-config="true" signature="captureScreenshotAfterFail(org.testng.ITestResult)[pri:0, instance:com.automationExercise.TestCases.LoginTest@3de8f619]" started-at="2024-10-23T21:43:52 EEST" name="captureScreenshotAfterFail" finished-at="2024-10-23T21:43:52 EEST" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=UserLoginWithInvalidData status=SUCCESS method=LoginTest.UserLoginWithInvalidData()[pri:0, instance:com.automationExercise.TestCases.LoginTest@3de8f619] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- captureScreenshotAfterFail -->
+        <test-method signature="UserLoginWithValidData()[pri:0, instance:com.automationExercise.TestCases.LoginTest@3de8f619]" started-at="2024-10-23T21:43:52 EEST" name="UserLoginWithValidData" finished-at="2024-10-23T21:43:59 EEST" duration-ms="7345" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- UserLoginWithValidData -->
+        <test-method is-config="true" signature="captureScreenshotAfterFail(org.testng.ITestResult)[pri:0, instance:com.automationExercise.TestCases.LoginTest@3de8f619]" started-at="2024-10-23T21:43:59 EEST" name="captureScreenshotAfterFail" finished-at="2024-10-23T21:43:59 EEST" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=UserLoginWithValidData status=SUCCESS method=LoginTest.UserLoginWithValidData()[pri:0, instance:com.automationExercise.TestCases.LoginTest@3de8f619] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- captureScreenshotAfterFail -->
+      </class> <!-- com.automationExercise.TestCases.LoginTest -->
+      <class name="com.automationExercise.TestCases.SubscriptionInHomepageTest">
+        <test-method signature="UserSubscriptionInHomePage()[pri:0, instance:com.automationExercise.TestCases.SubscriptionInHomepageTest@eadd4fb]" started-at="2024-10-23T21:44:19 EEST" name="UserSubscriptionInHomePage" finished-at="2024-10-23T21:44:20 EEST" duration-ms="477" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- UserSubscriptionInHomePage -->
+        <test-method is-config="true" signature="captureScreenshotAfterFail(org.testng.ITestResult)[pri:0, instance:com.automationExercise.TestCases.SubscriptionInHomepageTest@eadd4fb]" started-at="2024-10-23T21:44:20 EEST" name="captureScreenshotAfterFail" finished-at="2024-10-23T21:44:20 EEST" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=UserSubscriptionInHomePage status=SUCCESS method=SubscriptionInHomepageTest.UserSubscriptionInHomePage()[pri:0, instance:com.automationExercise.TestCases.SubscriptionInHomepageTest@eadd4fb] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- captureScreenshotAfterFail -->
+      </class> <!-- com.automationExercise.TestCases.SubscriptionInHomepageTest -->
+      <class name="com.automationExercise.TestCases.DeleteAccountTest">
+        <test-method signature="DeleteAccount()[pri:0, instance:com.automationExercise.TestCases.DeleteAccountTest@710636b0]" started-at="2024-10-23T21:43:44 EEST" name="DeleteAccount" finished-at="2024-10-23T21:43:47 EEST" duration-ms="2835" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- DeleteAccount -->
+        <test-method is-config="true" signature="captureScreenshotAfterFail(org.testng.ITestResult)[pri:0, instance:com.automationExercise.TestCases.DeleteAccountTest@710636b0]" started-at="2024-10-23T21:43:47 EEST" name="captureScreenshotAfterFail" finished-at="2024-10-23T21:43:47 EEST" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=DeleteAccount status=SUCCESS method=DeleteAccountTest.DeleteAccount()[pri:0, instance:com.automationExercise.TestCases.DeleteAccountTest@710636b0] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- captureScreenshotAfterFail -->
+      </class> <!-- com.automationExercise.TestCases.DeleteAccountTest -->
+      <class name="com.automationExercise.TestCases.CartTest">
+        <test-method signature="registeredUserAddToCart()[pri:0, instance:com.automationExercise.TestCases.CartTest@7bd7d6d6]" started-at="2024-10-23T21:44:37 EEST" name="registeredUserAddToCart" finished-at="2024-10-23T21:44:38 EEST" duration-ms="1232" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- registeredUserAddToCart -->
+        <test-method is-config="true" signature="captureScreenshotAfterFail(org.testng.ITestResult)[pri:0, instance:com.automationExercise.TestCases.CartTest@7bd7d6d6]" started-at="2024-10-23T21:44:38 EEST" name="captureScreenshotAfterFail" finished-at="2024-10-23T21:44:38 EEST" duration-ms="4" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=registeredUserAddToCart status=SUCCESS method=CartTest.registeredUserAddToCart()[pri:0, instance:com.automationExercise.TestCases.CartTest@7bd7d6d6] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- captureScreenshotAfterFail -->
+      </class> <!-- com.automationExercise.TestCases.CartTest -->
+      <class name="com.automationExercise.TestCases.SignupLoginPage">
+        <test-method is-config="true" signature="setDriver(java.lang.String)[pri:0, instance:com.automationExercise.TestCases.SignupLoginPage@4007f65e]" started-at="2024-10-23T21:43:22 EEST" name="setDriver" finished-at="2024-10-23T21:43:34 EEST" duration-ms="11876" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setDriver -->
+        <test-method signature="testSignUpFieldSuccessfully()[pri:0, instance:com.automationExercise.TestCases.SignupLoginPage@4007f65e]" started-at="2024-10-23T21:43:34 EEST" name="testSignUpFieldSuccessfully" finished-at="2024-10-23T21:43:37 EEST" duration-ms="3489" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testSignUpFieldSuccessfully -->
+        <test-method is-config="true" signature="captureScreenshotAfterFail(org.testng.ITestResult)[pri:0, instance:com.automationExercise.TestCases.SignupLoginPage@4007f65e]" started-at="2024-10-23T21:43:37 EEST" name="captureScreenshotAfterFail" finished-at="2024-10-23T21:43:37 EEST" duration-ms="2" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=testSignUpFieldSuccessfully status=SUCCESS method=SignupLoginPage.testSignUpFieldSuccessfully()[pri:0, instance:com.automationExercise.TestCases.SignupLoginPage@4007f65e] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- captureScreenshotAfterFail -->
+        <test-method is-config="true" signature="closeDriver()[pri:0, instance:com.automationExercise.TestCases.SignupLoginPage@4007f65e]" started-at="2024-10-23T21:44:46 EEST" name="closeDriver" finished-at="2024-10-23T21:44:46 EEST" duration-ms="247" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeDriver -->
+      </class> <!-- com.automationExercise.TestCases.SignupLoginPage -->
+      <class name="com.automationExercise.TestCases.CheckoutTest">
+        <test-method signature="RegisteredUserCheckout()[pri:0, instance:com.automationExercise.TestCases.CheckoutTest@43f02ef2]" started-at="2024-10-23T21:44:38 EEST" name="RegisteredUserCheckout" finished-at="2024-10-23T21:44:40 EEST" duration-ms="1450" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- RegisteredUserCheckout -->
+        <test-method is-config="true" signature="captureScreenshotAfterFail(org.testng.ITestResult)[pri:0, instance:com.automationExercise.TestCases.CheckoutTest@43f02ef2]" started-at="2024-10-23T21:44:40 EEST" name="captureScreenshotAfterFail" finished-at="2024-10-23T21:44:40 EEST" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=RegisteredUserCheckout status=SUCCESS method=CheckoutTest.RegisteredUserCheckout()[pri:0, instance:com.automationExercise.TestCases.CheckoutTest@43f02ef2] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- captureScreenshotAfterFail -->
+      </class> <!-- com.automationExercise.TestCases.CheckoutTest -->
+      <class name="com.automationExercise.TestCases.UserRegistrationTest">
+        <test-method signature="UserRegistrationSuccessfully()[pri:0, instance:com.automationExercise.TestCases.UserRegistrationTest@5b799640]" started-at="2024-10-23T21:43:38 EEST" name="UserRegistrationSuccessfully" finished-at="2024-10-23T21:43:41 EEST" duration-ms="3371" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- UserRegistrationSuccessfully -->
+        <test-method is-config="true" signature="captureScreenshotAfterFail(org.testng.ITestResult)[pri:0, instance:com.automationExercise.TestCases.UserRegistrationTest@5b799640]" started-at="2024-10-23T21:43:41 EEST" name="captureScreenshotAfterFail" finished-at="2024-10-23T21:43:41 EEST" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=UserRegistrationSuccessfully status=SUCCESS method=UserRegistrationTest.UserRegistrationSuccessfully()[pri:0, instance:com.automationExercise.TestCases.UserRegistrationTest@5b799640] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- captureScreenshotAfterFail -->
+      </class> <!-- com.automationExercise.TestCases.UserRegistrationTest -->
+      <class name="com.automationExercise.TestCases.PlaceOrderTest">
+        <test-method signature="userCanDownloadInvoices()[pri:0, instance:com.automationExercise.TestCases.PlaceOrderTest@2a8448fa]" started-at="2024-10-23T21:44:43 EEST" name="userCanDownloadInvoices" finished-at="2024-10-23T21:44:46 EEST" duration-ms="2670" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- userCanDownloadInvoices -->
+        <test-method is-config="true" signature="captureScreenshotAfterFail(org.testng.ITestResult)[pri:0, instance:com.automationExercise.TestCases.PlaceOrderTest@2a8448fa]" started-at="2024-10-23T21:44:46 EEST" name="captureScreenshotAfterFail" finished-at="2024-10-23T21:44:46 EEST" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=userCanDownloadInvoices status=SUCCESS method=PlaceOrderTest.userCanDownloadInvoices()[pri:0, instance:com.automationExercise.TestCases.PlaceOrderTest@2a8448fa] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- captureScreenshotAfterFail -->
+      </class> <!-- com.automationExercise.TestCases.PlaceOrderTest -->
+      <class name="com.automationExercise.TestCases.ProductDetailsTest">
+        <test-method signature="userReviewProduct()[pri:1, instance:com.automationExercise.TestCases.ProductDetailsTest@740fb309]" started-at="2024-10-23T21:44:20 EEST" name="userReviewProduct" finished-at="2024-10-23T21:44:27 EEST" duration-ms="7141" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- userReviewProduct -->
+        <test-method is-config="true" signature="captureScreenshotAfterFail(org.testng.ITestResult)[pri:0, instance:com.automationExercise.TestCases.ProductDetailsTest@740fb309]" started-at="2024-10-23T21:44:27 EEST" name="captureScreenshotAfterFail" finished-at="2024-10-23T21:44:27 EEST" duration-ms="2" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=userReviewProduct status=SUCCESS method=ProductDetailsTest.userReviewProduct()[pri:1, instance:com.automationExercise.TestCases.ProductDetailsTest@740fb309] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- captureScreenshotAfterFail -->
+        <test-method signature="userAddProductToCartFromProductsPage()[pri:2, instance:com.automationExercise.TestCases.ProductDetailsTest@740fb309]" started-at="2024-10-23T21:44:27 EEST" name="userAddProductToCartFromProductsPage" finished-at="2024-10-23T21:44:30 EEST" duration-ms="2898" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- userAddProductToCartFromProductsPage -->
+        <test-method is-config="true" signature="captureScreenshotAfterFail(org.testng.ITestResult)[pri:0, instance:com.automationExercise.TestCases.ProductDetailsTest@740fb309]" started-at="2024-10-23T21:44:30 EEST" name="captureScreenshotAfterFail" finished-at="2024-10-23T21:44:30 EEST" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=userAddProductToCartFromProductsPage status=SUCCESS method=ProductDetailsTest.userAddProductToCartFromProductsPage()[pri:2, instance:com.automationExercise.TestCases.ProductDetailsTest@740fb309] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- captureScreenshotAfterFail -->
+        <test-method signature="userAddProductToCartFromProductDetails()[pri:3, instance:com.automationExercise.TestCases.ProductDetailsTest@740fb309]" started-at="2024-10-23T21:44:30 EEST" name="userAddProductToCartFromProductDetails" finished-at="2024-10-23T21:44:37 EEST" duration-ms="7311" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- userAddProductToCartFromProductDetails -->
+        <test-method is-config="true" signature="captureScreenshotAfterFail(org.testng.ITestResult)[pri:0, instance:com.automationExercise.TestCases.ProductDetailsTest@740fb309]" started-at="2024-10-23T21:44:37 EEST" name="captureScreenshotAfterFail" finished-at="2024-10-23T21:44:37 EEST" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=userAddProductToCartFromProductDetails status=SUCCESS method=ProductDetailsTest.userAddProductToCartFromProductDetails()[pri:3, instance:com.automationExercise.TestCases.ProductDetailsTest@740fb309] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- captureScreenshotAfterFail -->
+      </class> <!-- com.automationExercise.TestCases.ProductDetailsTest -->
+      <class name="com.automationExercise.TestCases.SignUpSuccessfulTest">
+        <test-method signature="checkSuccessMsgAfterSignUp()[pri:0, instance:com.automationExercise.TestCases.SignUpSuccessfulTest@6cb107fd]" started-at="2024-10-23T21:43:41 EEST" name="checkSuccessMsgAfterSignUp" finished-at="2024-10-23T21:43:44 EEST" duration-ms="3212" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkSuccessMsgAfterSignUp -->
+        <test-method is-config="true" signature="captureScreenshotAfterFail(org.testng.ITestResult)[pri:0, instance:com.automationExercise.TestCases.SignUpSuccessfulTest@6cb107fd]" started-at="2024-10-23T21:43:44 EEST" name="captureScreenshotAfterFail" finished-at="2024-10-23T21:43:44 EEST" duration-ms="2" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=checkSuccessMsgAfterSignUp status=SUCCESS method=SignUpSuccessfulTest.checkSuccessMsgAfterSignUp()[pri:0, instance:com.automationExercise.TestCases.SignUpSuccessfulTest@6cb107fd] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- captureScreenshotAfterFail -->
+      </class> <!-- com.automationExercise.TestCases.SignUpSuccessfulTest -->
+      <class name="com.automationExercise.TestCases.ContactUsTest">
+        <test-method signature="UserContactUs()[pri:1, instance:com.automationExercise.TestCases.ContactUsTest@4e5ed836]" started-at="2024-10-23T21:44:14 EEST" name="UserContactUs" finished-at="2024-10-23T21:44:16 EEST" duration-ms="2750" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- UserContactUs -->
+        <test-method is-config="true" signature="captureScreenshotAfterFail(org.testng.ITestResult)[pri:0, instance:com.automationExercise.TestCases.ContactUsTest@4e5ed836]" started-at="2024-10-23T21:44:16 EEST" name="captureScreenshotAfterFail" finished-at="2024-10-23T21:44:16 EEST" duration-ms="2" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=UserContactUs status=SUCCESS method=ContactUsTest.UserContactUs()[pri:1, instance:com.automationExercise.TestCases.ContactUsTest@4e5ed836] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- captureScreenshotAfterFail -->
+        <test-method signature="UserReturnToHomePage()[pri:2, instance:com.automationExercise.TestCases.ContactUsTest@4e5ed836]" started-at="2024-10-23T21:44:16 EEST" name="UserReturnToHomePage" finished-at="2024-10-23T21:44:19 EEST" duration-ms="2794" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- UserReturnToHomePage -->
+        <test-method is-config="true" signature="captureScreenshotAfterFail(org.testng.ITestResult)[pri:0, instance:com.automationExercise.TestCases.ContactUsTest@4e5ed836]" started-at="2024-10-23T21:44:19 EEST" name="captureScreenshotAfterFail" finished-at="2024-10-23T21:44:19 EEST" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=UserReturnToHomePage status=SUCCESS method=ContactUsTest.UserReturnToHomePage()[pri:2, instance:com.automationExercise.TestCases.ContactUsTest@4e5ed836] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- captureScreenshotAfterFail -->
+      </class> <!-- com.automationExercise.TestCases.ContactUsTest -->
+      <class name="com.automationExercise.TestCases.PaymentTest">
+        <test-method signature="userEnterCard()[pri:0, instance:com.automationExercise.TestCases.PaymentTest@239a307b]" started-at="2024-10-23T21:44:40 EEST" name="userEnterCard" finished-at="2024-10-23T21:44:43 EEST" duration-ms="3333" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- userEnterCard -->
+        <test-method is-config="true" signature="captureScreenshotAfterFail(org.testng.ITestResult)[pri:0, instance:com.automationExercise.TestCases.PaymentTest@239a307b]" started-at="2024-10-23T21:44:43 EEST" name="captureScreenshotAfterFail" finished-at="2024-10-23T21:44:43 EEST" duration-ms="2" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=userEnterCard status=SUCCESS method=PaymentTest.userEnterCard()[pri:0, instance:com.automationExercise.TestCases.PaymentTest@239a307b] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- captureScreenshotAfterFail -->
+      </class> <!-- com.automationExercise.TestCases.PaymentTest -->
+    </test> <!-- com.automationExercise.TestCases -->
+  </suite> <!-- automationExercise Regression Suite -->
+</testng-results>

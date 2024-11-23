@@ -1,0 +1,13 @@
+Pages\PageBase.class
+Pages\HomePageAfterRegister.class
+Pages\PaymentPage.class
+Pages\productDetailsPage.class
+Pages\CartPage.class
+Pages\CheckoutPage.class
+Pages\HomePage.class
+Pages\PlaceOrderPage.class
+Pages\SearchPage.class
+Pages\UserRegistrationPage.class
+Pages\LoginSignUpPage.class
+Pages\ContactUsPage.class
+Pages\SignUpSuccessfulPage.class

@@ -1,0 +1,16 @@
+com\automationExercise\TestCases\PlaceOrderTest.class
+com\automationExercise\TestCases\SearchTest.class
+com\automationExercise\TestCases\PaymentTest.class
+Utilities\Helper.class
+com\automationExercise\TestCases\DeleteAccountTest.class
+com\automationExercise\TestCases\TestBase.class
+com\automationExercise\TestCases\LoginTest.class
+com\automationExercise\TestCases\CheckoutTest.class
+com\automationExercise\TestCases\SignupLoginPage.class
+com\automationExercise\TestCases\SignUpSuccessfulTest.class
+com\automationExercise\TestCases\UserRegistrationTest.class
+com\automationExercise\TestCases\ProductDetailsTest.class
+com\automationExercise\TestCases\CartTest.class
+com\automationExercise\TestCases\LogOutTest.class
+com\automationExercise\TestCases\ContactUsTest.class
+com\automationExercise\TestCases\SubscriptionInHomepageTest.class
